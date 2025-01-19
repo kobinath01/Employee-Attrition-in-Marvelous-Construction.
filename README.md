@@ -1,0 +1,1 @@
+Conducted an employee attrition analysis for Marvelous Construction using their ERP data. Cleaned and pre-processed a dataset containing 997 entries across 19 variables. Identified key attrition factors, including marital status, age group, and employment type, and proposed data-driven strategies to improve employee retention.
